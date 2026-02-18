@@ -1,5 +1,5 @@
 {
-  "name": "test-pack-1",
+  "name": "@prasadsl/test",
   "version": "1.0.0",
   "description": "this is the test library for platform",
   "main": "index.js",
